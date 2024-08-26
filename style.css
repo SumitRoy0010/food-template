@@ -1,0 +1,116 @@
+.vs {
+  font-size: 24px;
+  margin-left: 600px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-family: "karma", sans-serif;
+}
+
+.card-title {
+  font-weight: 100;
+  font-size: 25px;
+}
+
+.te {
+  padding: 0 10px;
+}
+
+.container-fluid {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "karma", sans-serif;
+}
+
+img {
+  border-style: none;
+  vertical-align: middle;
+  box-sizing: inherit;
+}
+
+.bs {
+  width: 280px;
+  margin: 20px;
+  border-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  cursor: pointer;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  width: 100%;
+}
+
+.gg {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+  justify-content: space-around;
+  margin: 0 1px;
+  padding: 5px 5px;
+}
+
+.gg :hover {
+  background-color: black;
+  color: white;
+}
+
+.pagination {
+  margin-top: 40px;
+  margin-left: 530px;
+}
+
+.base {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: 55px;
+  margin-right: 55px;
+  font-family: "karma", sans-serif;
+}
+
+.daze {
+  font-family: "karma", sans-serif;
+  font-size: 16px;
+  float: left;
+  margin-left: 60px;
+}
+
+.maed {
+  font-family: "karma", sans-serif;
+  font-size: 12px;
+  float: right;
+  margin-right: 100px;
+  padding-bottom: 8%;
+}
+
+.ch {
+  background-color: black;
+  font-size: 15px;
+}
+
+button {
+  background-color: grey;
+  color: white;
+  justify-content: space-between;
+}
+
+.beet {
+  color: black;
+  text-decoration: underline;
+}
